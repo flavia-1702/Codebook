@@ -3,6 +3,8 @@ using namespace std;
 
 typedef unsigned long long ull;
 
+// Range update queries
+
 struct segtree{
     ull n;
     vector<ull> st, lazy;
