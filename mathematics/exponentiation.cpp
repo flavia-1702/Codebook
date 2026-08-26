@@ -3,10 +3,10 @@ using namespace std;
  
 typedef long long ll;
 const int mod = 1e9 + 7;
- 
-ll potencia(int a, int b);
 
 // Exponenciação
+ 
+ll potencia(int a, int b);
  
 int main(){
     std::ios::sync_with_stdio(false);
